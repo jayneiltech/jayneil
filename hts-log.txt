@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Jun 2025 16:38:54 at localhost/wordpress +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" localhost/wordpress -O1 "G:\Website\Emergencybyethost website\JN1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:46:23	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/uploads/2023/11/placeholder.png (from localhost/wordpress/wp-content/uploads/elementor/css/post-10325.css?ver=1751065335)
+16:46:23	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/plugins/header-footer-elementor/inc/images/shade.png (from localhost/wordpress/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.4.1)
+16:46:24	Warning: 	Moved Permanently for localhost/wordpress/?p=10587
+16:46:24	Warning: 	File has moved from localhost/wordpress/?p=10587 to http://localhost/wordpress/associates/
+16:46:24	Warning: 	Moved Permanently for localhost/wordpress/?p=10622
+16:46:24	Warning: 	File has moved from localhost/wordpress/?p=10622 to http://localhost/wordpress/contact-us/
+16:46:31	Warning: 	Moved Permanently for localhost/wordpress/?p=6165
+16:46:31	Warning: 	File has moved from localhost/wordpress/?p=6165 to http://localhost/wordpress/our-clients/
+16:46:31	Warning: 	Moved Permanently for localhost/wordpress/?p=6295
+16:46:31	Warning: 	File has moved from localhost/wordpress/?p=6295 to http://localhost/wordpress/news-flash/
+16:46:31	Warning: 	Moved Permanently for localhost/wordpress/?p=10574
+16:46:31	Warning: 	File has moved from localhost/wordpress/?p=10574 to http://localhost/wordpress/gmp-bulletins/
+16:46:31	Warning: 	Moved Permanently for localhost/wordpress/?p=11123
+16:46:31	Warning: 	File has moved from localhost/wordpress/?p=11123 to http://localhost/wordpress/jayneil-brochure/
+16:46:31	Warning: 	Moved Permanently for localhost/wordpress/?p=10410
+16:46:31	Warning: 	File has moved from localhost/wordpress/?p=10410 to http://localhost/wordpress/process_technology/
+16:46:36	Warning: 	Moved Permanently for localhost/wordpress/?p=10415
+16:46:36	Warning: 	File has moved from localhost/wordpress/?p=10415 to http://localhost/wordpress/project_engineering/
+16:46:36	Warning: 	Moved Permanently for localhost/wordpress/?p=10434
+16:46:36	Warning: 	File has moved from localhost/wordpress/?p=10434 to http://localhost/wordpress/validation-and-documentation-services/
+16:46:36	Warning: 	Moved Permanently for localhost/wordpress/?p=10456
+16:46:36	Warning: 	File has moved from localhost/wordpress/?p=10456 to http://localhost/wordpress/audits-and-technical-training/
+16:47:01	Warning: 	Moved Permanently for localhost/wordpress/?p=11655
+16:47:01	Warning: 	File has moved from localhost/wordpress/?p=11655 to http://localhost/wordpress/projects-pharma/
+16:47:13	Warning: 	Moved Permanently for localhost/wordpress/?p=11711
+16:47:13	Warning: 	File has moved from localhost/wordpress/?p=11711 to http://localhost/wordpress/projects-ayush/
+16:47:13	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/uploads/2023/11/05_ghl.jpg (from localhost/wordpress/projects-ayush/)
+16:47:13	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/uploads/2023/11/06_biotech-1.jpg (from localhost/wordpress/projects-ayush/)
+16:47:13	Warning: 	Moved Permanently for localhost/wordpress/?p=11745
+16:47:13	Warning: 	File has moved from localhost/wordpress/?p=11745 to http://localhost/wordpress/projects-cosmetics/
+16:47:26	Warning: 	Moved Permanently for localhost/wordpress/?p=11775
+16:47:26	Warning: 	File has moved from localhost/wordpress/?p=11775 to http://localhost/wordpress/projects-laboratory/
+16:47:50	Warning: 	Moved Permanently for localhost/wordpress/?p=11798
+16:47:50	Warning: 	File has moved from localhost/wordpress/?p=11798 to http://localhost/wordpress/projects-api/
+16:48:00	Warning: 	Moved Permanently for localhost/wordpress/?p=11825
+16:48:00	Warning: 	File has moved from localhost/wordpress/?p=11825 to http://localhost/wordpress/projects-others/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 21 seconds : 286 links scanned, 265 files written (17382155 bytes overall) [15578594 bytes received at 27769 bytes/sec], 2625406 bytes transferred using HTTP compression in 81 files, ratio 19%, 2.3 requests per connection
+(4 errors, 32 warnings, 0 messages)
