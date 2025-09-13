@@ -1,0 +1,143 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Sep 2025 17:16:17 at http://jayneiltech.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://jayneiltech.local/ -O1 "D:\25_09_09_html website for upload\JN5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:18:24	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/wp/v2/pages/22 (from jayneiltech.local/)
+17:18:24	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/associates/ (from jayneiltech.local/)
+17:21:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/projects-ayush/ (from jayneiltech.local/)
+17:21:39	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/validation_services_header_smaller.jpg (from jayneiltech.local/)
+17:21:43	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3 (from jayneiltech.local/)
+17:21:45	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/Milestone.jpg (from jayneiltech.local/wp-content/uploads/elementor/css/post-22.css?ver=1757734403)
+17:21:46	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/plugins/elementor/assets/images/placeholder.png (from jayneiltech.local/wp-content/uploads/elementor/css/post-22.css?ver=1757734403)
+17:21:46	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.43.0 (from jayneiltech.local/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0)
+17:21:49	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot (from jayneiltech.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3)
+17:21:51	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff (from jayneiltech.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3)
+17:22:00	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 (from jayneiltech.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3)
+17:22:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:22:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:22:08	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:22:08	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:22:11	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:22:12	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:22:12	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:22:14	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751399539)
+17:22:14	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751399539)
+17:22:15	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751399539)
+17:22:18	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/wp/v2/pages/79 (from jayneiltech.local/contact_us/)
+17:22:19	Warning: 	Moved Permanently for jayneiltech.local/?p=79
+17:22:19	Warning: 	File has moved from jayneiltech.local/?p=79 to http://jayneiltech.local/contact_us/
+17:22:20	Warning: 	Moved Permanently for jayneiltech.local/?p=89
+17:22:20	Warning: 	File has moved from jayneiltech.local/?p=89 to http://jayneiltech.local/our-clients/
+17:22:20	Warning: 	Moved Permanently for jayneiltech.local/?p=144
+17:22:20	Warning: 	File has moved from jayneiltech.local/?p=144 to http://jayneiltech.local/gmp-bulletins/
+17:22:20	Warning: 	Moved Permanently for jayneiltech.local/?p=98
+17:22:20	Warning: 	File has moved from jayneiltech.local/?p=98 to http://jayneiltech.local/jayneil-bulletins/
+17:22:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/pant1.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/pant4.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/pant6.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:21	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/cord1.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/cord5.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/cord3.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/cord7.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_3d_phase2.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:37	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/06_emceepic3.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:40	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_emceepic1.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:22:44	Warning: 	Moved Permanently for jayneiltech.local/?p=163
+17:22:44	Warning: 	File has moved from jayneiltech.local/?p=163 to http://jayneiltech.local/jayneil-brochure/
+17:22:44	Warning: 	Moved Permanently for jayneiltech.local/?p=179
+17:22:44	Warning: 	File has moved from jayneiltech.local/?p=179 to http://jayneiltech.local/process-technology/
+17:22:44	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/02_Picture2_vapi1.jpg (from jayneiltech.local/process-technology/)
+17:22:47	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_Picture4_vapi1.jpg (from jayneiltech.local/process-technology/)
+17:22:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/06_Picture2_masat1.jpg (from jayneiltech.local/process-technology/)
+17:22:48	Warning: 	Moved Permanently for jayneiltech.local/?p=189
+17:22:48	Warning: 	File has moved from jayneiltech.local/?p=189 to http://jayneiltech.local/project-engineering/
+17:22:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Fproject-engineering%2F (from jayneiltech.local/project-engineering/)
+17:22:49	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/02_sample_panel_layout.jpg (from jayneiltech.local/project-engineering/)
+17:22:51	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_sample_rds.jpg (from jayneiltech.local/project-engineering/)
+17:22:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/07_sample_pi.jpg (from jayneiltech.local/project-engineering/)
+17:22:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/css/post-213.css?ver=1757737188 (from jayneiltech.local/validation-and-documentation-services/)
+17:22:53	Warning: 	Moved Permanently for jayneiltech.local/?p=213
+17:22:53	Warning: 	File has moved from jayneiltech.local/?p=213 to http://jayneiltech.local/validation-and-documentation-services/
+17:22:53	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/01_Sample_HVACIQ1.jpg (from jayneiltech.local/validation-and-documentation-services/)
+17:22:55	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_Sample_SOP.jpg (from jayneiltech.local/validation-and-documentation-services/)
+17:22:55	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/05_Sample_SMF2.jpg (from jayneiltech.local/validation-and-documentation-services/)
+17:22:56	Warning: 	Moved Permanently for jayneiltech.local/?p=220
+17:22:56	Warning: 	File has moved from jayneiltech.local/?p=220 to http://jayneiltech.local/audits-and-technical-training/
+17:22:56	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Faudits-and-technical-training%2F (from jayneiltech.local/audits-and-technical-training/)
+17:22:56	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/02_IMG_0003.jpg (from jayneiltech.local/audits-and-technical-training/)
+17:22:58	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_IMG_0209.jpg (from jayneiltech.local/audits-and-technical-training/)
+17:22:58	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/02_100_0717.jpg (from jayneiltech.local/audits-and-technical-training/)
+17:22:59	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/01_nepal_pic1.jpg (from jayneiltech.local/audits-and-technical-training/)
+17:23:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_nepal_pic3.jpg (from jayneiltech.local/audits-and-technical-training/)
+17:23:01	Warning: 	Moved Permanently for jayneiltech.local/?p=246
+17:23:01	Warning: 	File has moved from jayneiltech.local/?p=246 to http://jayneiltech.local/projects-pharma/
+17:23:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Fprojects-pharma%2F (from jayneiltech.local/projects-pharma/)
+17:23:02	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_bewell_pic4-300x225.jpg (from jayneiltech.local/projects-pharma/)
+17:23:03	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/05_ghl-300x225.jpg (from jayneiltech.local/projects-pharma/)
+17:23:03	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/06_biotech-1-300x225.jpg (from jayneiltech.local/projects-pharma/)
+17:23:18	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/css/post-302.css?ver=1757735951 (from jayneiltech.local/projects-cosmetics/)
+17:23:19	Warning: 	Moved Permanently for jayneiltech.local/?p=302
+17:23:19	Warning: 	File has moved from jayneiltech.local/?p=302 to http://jayneiltech.local/projects-cosmetics/
+17:23:19	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_deys.jpg (from jayneiltech.local/projects-cosmetics/)
+17:23:22	Warning: 	Moved Permanently for jayneiltech.local/?p=320
+17:23:22	Warning: 	File has moved from jayneiltech.local/?p=320 to http://jayneiltech.local/projects-laboratory/
+17:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_ziskalab_pic1.jpg (from jayneiltech.local/projects-laboratory/)
+17:23:29	Warning: 	Moved Permanently for jayneiltech.local/?p=333
+17:23:29	Warning: 	File has moved from jayneiltech.local/?p=333 to http://jayneiltech.local/projects-api/
+17:23:29	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_navana.jpg (from jayneiltech.local/projects-api/)
+17:23:49	Warning: 	Moved Permanently for jayneiltech.local/?p=340
+17:23:49	Warning: 	File has moved from jayneiltech.local/?p=340 to http://jayneiltech.local/projects-others/
+17:23:49	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Fprojects-others%2F&format=xml (from jayneiltech.local/projects-others/)
+17:23:50	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_NEC.jpg (from jayneiltech.local/projects-others/)
+17:23:51	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3 (from jayneiltech.local/)
+17:23:52	Error: 	"Not Found" (404) at link jayneiltech.local/OPR/ (from jayneiltech.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.30.0)
+17:23:52	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/plugins/elementor/assets/images/placeholder.png (from jayneiltech.local/wp-content/uploads/elementor/css/post-22.css?ver=1757734403)
+17:23:53	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751399510)
+17:24:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751399539)
+17:24:01	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751399539)
+17:24:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/css/post-70.css?ver=1757734660 (from jayneiltech.local/associates/)
+17:24:07	Warning: 	Moved Permanently for jayneiltech.local/?p=70
+17:24:07	Warning: 	File has moved from jayneiltech.local/?p=70 to http://jayneiltech.local/associates/
+17:24:07	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/dsgupta2.jpg (from jayneiltech.local/associates/)
+17:24:08	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/Our_clients_header1-copy5.jpg (from jayneiltech.local/wp-content/uploads/elementor/css/post-89.css?ver=1757748621)
+17:24:14	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/pant6.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:24:15	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/cord5.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:24:15	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_emceepic1.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:24:20	Error: 	"Not Found" (404) at link jayneiltech.local/jayneil-bulletins/l (from jayneiltech.local/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+17:24:20	Error: 	"Not Found" (404) at link jayneiltech.local/jayneil-bulletins/e (from jayneiltech.local/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+17:24:20	Error: 	"Not Found" (404) at link jayneiltech.local/jayneil-bulletins/t.params.url (from jayneiltech.local/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+17:24:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/04_Picture4_vapi1.jpg (from jayneiltech.local/process-technology/)
+17:24:20	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Fproject-engineering%2F (from jayneiltech.local/project-engineering/)
+17:24:21	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/07_sample_pi.jpg (from jayneiltech.local/project-engineering/)
+17:24:26	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_Sample_SOP.jpg (from jayneiltech.local/validation-and-documentation-services/)
+17:24:28	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Faudits-and-technical-training%2F (from jayneiltech.local/audits-and-technical-training/)
+17:24:28	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/02_100_0717.jpg (from jayneiltech.local/audits-and-technical-training/)
+17:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_nepal_pic3.jpg (from jayneiltech.local/audits-and-technical-training/)
+17:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Fprojects-pharma%2F (from jayneiltech.local/projects-pharma/)
+17:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/05_ghl-300x225.jpg (from jayneiltech.local/projects-pharma/)
+17:24:32	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/css/post-290.css?ver=1757735640 (from jayneiltech.local/projects-ayush/)
+17:24:33	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-json/wp/v2/pages/290 (from jayneiltech.local/projects-ayush/)
+17:24:33	Warning: 	Moved Permanently for jayneiltech.local/?p=290
+17:24:33	Warning: 	File has moved from jayneiltech.local/?p=290 to http://jayneiltech.local/projects-ayush/
+17:24:33	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_kudos_pic1.jpg (from jayneiltech.local/projects-ayush/)
+17:24:33	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/05_vapi_pic1.jpg (from jayneiltech.local/projects-ayush/)
+17:24:34	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/css/post-302.css?ver=1757735951 (from jayneiltech.local/projects-cosmetics/)
+17:24:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/api-projects-collage.jpg (from jayneiltech.local/wp-content/uploads/elementor/css/post-333.css?ver=1757735602)
+17:24:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link jayneiltech.local/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2 (from jayneiltech.local/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751399539)
+17:24:35	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/elementor/css/post-70.css?ver=1757734660 (from jayneiltech.local/associates/)
+17:24:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link jayneiltech.local/wp-content/uploads/2025/07/cord5.jpg (from jayneiltech.local/jayneil-bulletins/)
+17:24:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link jayneiltech.local/wp-content/uploads/2025/07/04_Picture4_vapi1.jpg (from jayneiltech.local/process-technology/)
+17:24:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Faudits-and-technical-training%2F (from jayneiltech.local/audits-and-technical-training/)
+17:24:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link jayneiltech.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjayneiltech.local%2Fprojects-pharma%2F (from jayneiltech.local/projects-pharma/)
+17:24:36	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/03_kudos_pic1.jpg (from jayneiltech.local/projects-ayush/)
+17:24:37	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/api-projects-collage.jpg (from jayneiltech.local/wp-content/uploads/elementor/css/post-333.css?ver=1757735602)
+17:24:37	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/project-ayush-collage.jpg (from jayneiltech.local/wp-content/uploads/elementor/css/post-290.css?ver=1757735640)
+17:24:40	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/cosmetics-collage-header.jpg (from jayneiltech.local/wp-content/uploads/elementor/css/post-302.css?ver=1757735951)
+17:25:16	Warning: 	Retry after error -4 (No data (connection closed)) at link jayneiltech.local/wp-content/uploads/2025/07/cosmetics-collage-header.jpg (from jayneiltech.local/wp-content/uploads/elementor/css/post-302.css?ver=1757735951)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 12 seconds : 400 links scanned, 283 files written (18920842 bytes overall) [13715866 bytes received at 24847 bytes/sec], 7779881 bytes transferred using HTTP compression in 139 files, ratio 25%, 2.7 requests per connection
+(9 errors, 123 warnings, 0 messages)
